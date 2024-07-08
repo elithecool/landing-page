@@ -1,1 +1,2 @@
 # landing-page
+This landing page is built with HTML and CSS using Flexbox, and is similar to many other landing pages you would see on popular websites. This project was created to learn how to use Flexbox with CSS.
